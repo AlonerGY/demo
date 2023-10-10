@@ -1,5 +1,17 @@
 {
     "trigger_dict": {
+        "1098211398": {
+            "action": [], 
+            "call_enabled": true, 
+            "condition": [], 
+            "enabled": true, 
+            "event": [], 
+            "group_id": "BnoH7mccEe6SyjDQQundLj", 
+            "p_trigger_id": null, 
+            "trigger_id": 1098211398, 
+            "trigger_name": "\u91d1\u8d852", 
+            "valid": true
+        }, 
         "1297940549": {
             "action": [], 
             "call_enabled": true, 
@@ -21,6 +33,13 @@
                 "items": [
                     1297940549, 
                     "\u91d1\u8d851"
+                ]
+            }, 
+            {
+                "__tuple__": true, 
+                "items": [
+                    1098211398, 
+                    "\u91d1\u8d852"
                 ]
             }
         ], 
