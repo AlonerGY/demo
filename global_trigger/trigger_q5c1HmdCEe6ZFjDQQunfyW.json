@@ -23,7 +23,7 @@
                         {
                             "arg_type": 100003, 
                             "args_list": [
-                                "\u5148\u4ece\u8868\uff08\u5168\u5c40\u53d8\u91cf\uff1a\u5173\u5361\u8868\uff09\u4e2d\u83b7\u53d6\u5230\u8fd91\u5217\uff08\u53c2\u6570\uff1a\u6ce2\u6b21\uff09\u7684\u654c\u4eba\u7684\u6570\u636e"
+                                "\u5148\u4ece\u8868\uff08\u5168\u5c40\u53d8\u91cf\uff1a\u5173\u5361\u8868\uff09\u4e2d\u83b7\u53d6\u5230\u7684\u654c\u4eba\u7684\u6570\u636e"
                             ], 
                             "sub_type": 1
                         }
@@ -69,18 +69,9 @@
             "event": [], 
             "func_category": "t_function", 
             "func_comment": "", 
-            "func_des": "\u751f\u6210\u7b2c{\u6ce2\u6b21}\u6ce2\u654c\u4eba", 
+            "func_des": "\u751f\u6210\u654c\u4eba", 
             "func_id": "f069c6e1675111eeaa1630d042e9dfc9", 
             "func_name": "\u5173\u5361\u654c\u4eba\u751f\u6210", 
-            "func_param_list": [
-                {
-                    "__tuple__": true, 
-                    "items": [
-                        "\u6ce2\u6b21", 
-                        true
-                    ]
-                }
-            ], 
             "group_id": "q5c1HmdCEe6ZFjDQQunfyW", 
             "is_func": true, 
             "is_official_func": false, 

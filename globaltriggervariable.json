@@ -81,13 +81,9 @@
         }, 
         "268705909": {
             "variable_dict": {
-                "INTEGER": {
-                    "\u6ce2\u6b21": 0
-                }
+                "INTEGER": {}
             }, 
-            "variable_length_dict": {
-                "\u6ce2\u6b21": 0
-            }
+            "variable_length_dict": {}
         }, 
         "333193219": {
             "variable_dict": {
