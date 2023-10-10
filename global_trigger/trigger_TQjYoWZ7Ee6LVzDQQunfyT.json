@@ -28,7 +28,53 @@
                         }, 
                         {
                             "arg_type": 100022, 
-                            "args_list": [], 
+                            "args_list": [
+                                {
+                                    "action_type": "SET_VARIABLE_STR_LIST", 
+                                    "args_list": [
+                                        {
+                                            "arg_type": 100167, 
+                                            "args_list": [
+                                                {
+                                                    "__tuple__": true, 
+                                                    "items": [
+                                                        "STRING", 
+                                                        "\u6d4b\u8bd5\u7528\u5b57\u7b26\u4e32\u6570\u7ec4", 
+                                                        "local"
+                                                    ]
+                                                }
+                                            ], 
+                                            "sub_type": 1
+                                        }, 
+                                        {
+                                            "arg_type": 100003, 
+                                            "args_list": [
+                                                {
+                                                    "arg_type": 100025, 
+                                                    "args_list": [], 
+                                                    "sub_type": "GET_CLIENT_ROLE"
+                                                }, 
+                                                {
+                                                    "arg_type": 100070, 
+                                                    "args_list": [], 
+                                                    "sub_type": "GET_UI_COMP_FROM_EVENT"
+                                                }
+                                            ], 
+                                            "sub_type": "GET_UI_COMP_NAME"
+                                        }, 
+                                        {
+                                            "arg_type": 100003, 
+                                            "args_list": [
+                                                "_"
+                                            ], 
+                                            "sub_type": 1
+                                        }
+                                    ], 
+                                    "bp": false, 
+                                    "element_id": 512450625240761, 
+                                    "enable": true
+                                }
+                            ], 
                             "sub_type": 1
                         }, 
                         {
@@ -58,7 +104,21 @@
                     "\u70b9\u51fb\u4e0a\u83dc\u5355UI\u4e8b\u4ef6", 
                     512450625, 
                     "event_type"
-                ]
+                ], 
+                {
+                    "args_list": [
+                        {
+                            "arg_type": 100067, 
+                            "args_list": [
+                                "\u8fdb\u5165\u5173\u5361"
+                            ], 
+                            "sub_type": 1
+                        }
+                    ], 
+                    "element_id": 512450625240758, 
+                    "enable": true, 
+                    "event_type": "TRIGGER_COMPONENT_EVENT"
+                }
             ], 
             "group_id": "TQjYoWZ7Ee6LVzDQQunfyT", 
             "p_trigger_id": null, 
