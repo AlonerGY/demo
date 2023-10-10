@@ -1,0 +1,31 @@
+{
+    "trigger_dict": {
+        "1297940549": {
+            "action": [], 
+            "call_enabled": true, 
+            "condition": [], 
+            "enabled": true, 
+            "event": [], 
+            "group_id": "BnoH7mccEe6SyjDQQundLj", 
+            "p_trigger_id": null, 
+            "trigger_id": 1297940549, 
+            "trigger_name": "\u91d1\u8d851", 
+            "valid": true
+        }
+    }, 
+    "trigger_group_info": {
+        "_trigger_group_": true, 
+        "group": [
+            {
+                "__tuple__": true, 
+                "items": [
+                    1297940549, 
+                    "\u91d1\u8d851"
+                ]
+            }
+        ], 
+        "is_sub_folder": false, 
+        "key": "BnoH7mccEe6SyjDQQundLj", 
+        "name": "\u5218\u9526\u8d85"
+    }
+}
