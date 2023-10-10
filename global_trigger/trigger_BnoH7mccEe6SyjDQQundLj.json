@@ -35,6 +35,61 @@
             "trigger_id": 1297940549, 
             "trigger_name": "\u91d1\u8d851", 
             "valid": true
+        }, 
+        "1320939592": {
+            "action": [
+                {
+                    "action_type": "RUN_ONCE_TIMER_NO_SAVE", 
+                    "args_list": [
+                        {
+                            "arg_type": 100000, 
+                            "args_list": [
+                                2.0
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100022, 
+                            "args_list": [], 
+                            "sub_type": 1
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 1320939592000005, 
+                    "enable": true, 
+                    "local_var": {
+                        "__tuple__": true, 
+                        "items": [
+                            {}, 
+                            {}
+                        ]
+                    }
+                }
+            ], 
+            "call_enabled": true, 
+            "condition": [], 
+            "enabled": true, 
+            "event": [
+                {
+                    "args_list": [
+                        {
+                            "arg_type": 100067, 
+                            "args_list": [
+                                "bufftips_show"
+                            ], 
+                            "sub_type": 1
+                        }
+                    ], 
+                    "element_id": 1320939592000002, 
+                    "enable": true, 
+                    "event_type": "TRIGGER_COMPONENT_EVENT"
+                }
+            ], 
+            "group_id": "BnoH7mccEe6SyjDQQundLj", 
+            "p_trigger_id": null, 
+            "trigger_id": 1320939592, 
+            "trigger_name": "\u91d1\u8d854", 
+            "valid": true
         }
     }, 
     "trigger_group_info": {
@@ -59,6 +114,13 @@
                 "items": [
                     9715783, 
                     "\u91d1\u8d853"
+                ]
+            }, 
+            {
+                "__tuple__": true, 
+                "items": [
+                    1320939592, 
+                    "\u91d1\u8d854"
                 ]
             }
         ], 
