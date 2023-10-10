@@ -272,12 +272,12 @@
         "414": 16, 
         "415": [], 
         "416": [
-            "formula_damage * (1 - (formula_defense * 0.06) / (formula_defense * 0.06 + 1))*(1 + source_unit[\"extra_dmg\"] * 0.01 - target_unit[\"dmg_reduction\"] * 0.01)", 
-            "formula_damage * (1 - (formula_defense * 0.06) / (formula_defense * 0.06 + 1))*(1 + source_unit[\"extra_dmg\"] * 0.01 - target_unit[\"dmg_reduction\"] * 0.01)"
+            "formula_damage", 
+            "formula_damage"
         ], 
         "417": [
-            "formula_damage * (1 - (formula_defense * 0.06) / (formula_defense * 0.06 + 1))*(1 + source_unit[\"extra_dmg\"] * 0.01 - target_unit[\"dmg_reduction\"] * 0.01)", 
-            "formula_damage * (1 - (formula_defense * 0.06) / (formula_defense * 0.06 + 1))*(1 + source_unit[\"extra_dmg\"] * 0.01 - target_unit[\"dmg_reduction\"] * 0.01)"
+            "formula_damage", 
+            "formula_damage"
         ], 
         "418": 9999.0, 
         "419": "0", 
