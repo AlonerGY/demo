@@ -3,9 +3,42 @@
     "children": [
         {
             "children": [], 
+            "event_list": [], 
+            "image": 903515, 
+            "name": "\u80cc\u666f", 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    960.0, 
+                    540.0
+                ]
+            }, 
+            "size": {
+                "__tuple__": true, 
+                "items": [
+                    1920.0, 
+                    1080.0
+                ]
+            }, 
+            "type": 4, 
+            "uid": "896607c7-d0c2-491e-bc07-073b89553c37"
+        }, 
+        {
+            "children": [], 
             "event_list": [
                 {
-                    "action_list": [], 
+                    "action_list": [
+                        {
+                            "anim_duration": 1.0, 
+                            "anim_id": null, 
+                            "anim_type": 0, 
+                            "comp": "0c2f15f7-d228-404f-bb58-a333c8af71fe", 
+                            "ease_type": 0, 
+                            "name": "Hide_3", 
+                            "open_timeline": true, 
+                            "type": 3
+                        }
+                    ], 
                     "enabled": true, 
                     "name": "\u8fdb\u5165\u5173\u5361", 
                     "sound_id": null, 
