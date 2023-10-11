@@ -211,9 +211,77 @@
      2147483647, 
      "code_explorer_custom_root_folder_name"
     ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     "/2147483647", 
+     0, 
+     "MXrfkWgsEe6YxzDQQundLk", 
+     "\u90ed\u5609"
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     "/2147483647", 
+     1, 
+     "JQsggGgsEe6HwjDQQundLn", 
+     "\u66f9\u64cd"
+    ]
    }
   ], 
-  "d": {}
+  "d": {
+   "134221538": {
+    "__tuple__": true, 
+    "items": [
+     "MXrfkWgsEe6YxzDQQundLk", 
+     0
+    ]
+   }, 
+   "134276564": {
+    "__tuple__": true, 
+    "items": [
+     "JQsggGgsEe6HwjDQQundLn", 
+     0
+    ]
+   }, 
+   "134274744": {
+    "__tuple__": true, 
+    "items": [
+     "JQsggGgsEe6HwjDQQundLn", 
+     1
+    ]
+   }, 
+   "134233305": {
+    "__tuple__": true, 
+    "items": [
+     "JQsggGgsEe6HwjDQQundLn", 
+     2
+    ]
+   }, 
+   "134255884": {
+    "__tuple__": true, 
+    "items": [
+     "JQsggGgsEe6HwjDQQundLn", 
+     3
+    ]
+   }, 
+   "134230028": {
+    "__tuple__": true, 
+    "items": [
+     "JQsggGgsEe6HwjDQQundLn", 
+     4
+    ]
+   }, 
+   "134251651": {
+    "__tuple__": true, 
+    "items": [
+     "JQsggGgsEe6HwjDQQundLn", 
+     5
+    ]
+   }
+  }
  }, 
  "editor_cur": {
   "f": [
