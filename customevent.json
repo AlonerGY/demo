@@ -1,4 +1,14 @@
 {
-    "conf": {}, 
-    "group_info": []
+    "conf": {
+        "1285164823": []
+    }, 
+    "group_info": [
+        {
+            "__tuple__": true, 
+            "items": [
+                1285164823, 
+                "\u5f00\u59cb\u9ec4\u5dfe\u4e4b\u4e71\u5173\u5361"
+            ]
+        }
+    ]
 }

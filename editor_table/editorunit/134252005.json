@@ -1,24 +1,28 @@
 {
+    "102": 0, 
+    "104": 500, 
+    "107": 0, 
+    "108": 100, 
     "_custom_": true, 
-    "_ref_": 134278521, 
+    "_ref_": 134227359, 
     "affect_techs": {
         "__tuple__": true, 
         "items": []
     }, 
     "agility": 10.0, 
     "agility_grow": 1.0, 
-    "alarm_range": 8.0, 
+    "alarm_range": 52.0, 
     "angle_tolerance": 1, 
     "armor_type": 20000, 
     "attack_interval": 1.0, 
     "attack_interval_grow": 0, 
     "attack_mag": 0.0, 
     "attack_mag_grow": 0.0, 
-    "attack_phy": 5.0, 
+    "attack_phy": 100.0, 
     "attack_phy_grow": 2.0, 
-    "attack_range": 10.0, 
+    "attack_range": 0.1, 
     "attack_range_grow": 0, 
-    "attack_speed": 10000.0, 
+    "attack_speed": 1000.0, 
     "attack_speed_grow": 0.0, 
     "attack_type": 10000, 
     "bar_show_name": 2, 
@@ -38,9 +42,9 @@
     "billboard_name_font": "DFPYuanW7-GB", 
     "billboard_scale_x": 1, 
     "billboard_scale_y": 1, 
-    "blood_bar": 65537, 
+    "blood_bar": 0, 
     "blood_show_type": 0, 
-    "body_size": 1.0, 
+    "body_size": 1.4, 
     "build_res_cost_list": {
         "__tuple__": true, 
         "items": []
@@ -50,7 +54,7 @@
         "items": []
     }, 
     "can_flee": false, 
-    "cancel_alarm_range": 10.0, 
+    "cancel_alarm_range": 100.0, 
     "cd_reduce": 0.0, 
     "cd_reduce_grow": 0.0, 
     "collision_box_turning_enable": false, 
@@ -78,12 +82,12 @@
     "critical_dmg_grow": 0.0, 
     "dead_exp": 10, 
     "dead_money": 5, 
-    "default_behaviour_type": "", 
+    "default_behaviour_type": "caution", 
     "defense_mag": 0.0, 
     "defense_mag_grow": 0.0, 
     "defense_phy": 10.0, 
     "defense_phy_grow": 5.0, 
-    "description": -2091900499, 
+    "description": 1834317352, 
     "destroy_after_die": true, 
     "die_anim": "die", 
     "disk_shadow_size": 0, 
@@ -127,33 +131,33 @@
     }, 
     "hit_rate": 100.0, 
     "hit_rate_grow": 0.0, 
-    "hp_max": 99999.0, 
+    "hp_max": 5.0, 
     "hp_max_grow": 100.0, 
     "hp_rec": 10, 
     "hp_rec_grow": 1, 
-    "icon": 106730, 
+    "icon": 133739, 
     "idle_anim": "idle1", 
     "init_stock": 5, 
     "intelligence": 10.0, 
     "intelligence_grow": 1.0, 
-    "is_apply_role_color": true, 
+    "is_apply_role_color": false, 
     "is_mini_map_show": true, 
     "is_open_Xray": false, 
-    "is_open_disk_shadow": 0, 
+    "is_open_disk_shadow": false, 
     "is_open_outline_pass": false, 
     "is_shop": false, 
-    "is_x_offset": 1, 
-    "is_z_offset": 1, 
+    "is_x_offset": false, 
+    "is_z_offset": false, 
     "keep_dead_body_time": 0.0, 
     "keep_target": false, 
-    "key": 134278521, 
+    "key": 134252005, 
     "kv": {}, 
     "level": 1, 
     "main_attr": "strength", 
     "max_stock": 5, 
     "mini_map_icon": 100174, 
     "mini_map_icon_scale": 1.0, 
-    "model": 200782, 
+    "model": 204665, 
     "model_height": 0.0, 
     "model_opacity": 1, 
     "move_channel": 0, 
@@ -165,10 +169,10 @@
     "mp_max_grow": 50.0, 
     "mp_rec": 10, 
     "mp_rec_grow": 2, 
-    "name": -574807299, 
+    "name": 477101949, 
     "need_preview_billboard": true, 
     "ori_bits": 0, 
-    "ori_speed": 4.5, 
+    "ori_speed": 3.5, 
     "ori_speed_grow": 0.0, 
     "passive_ability_list": {
         "__tuple__": true, 
@@ -187,7 +191,7 @@
         "__tuple__": true, 
         "items": []
     }, 
-    "preview_billboard_health_value": 99999.0, 
+    "preview_billboard_health_value": 5.0, 
     "refresh_interval": 1.0, 
     "research_techs": {
         "__tuple__": true, 
@@ -221,7 +225,7 @@
         "ability_bw_point": 0.5, 
         "ability_cast_point": 0.2, 
         "attack_interval": 1.0, 
-        "attack_range": 10.0, 
+        "attack_range": 0.1, 
         "attack_trajectory": {
             "effect": 0, 
             "follow_scale": true, 
@@ -235,28 +239,11 @@
         "damage": {
             "__tuple__": true, 
             "items": [
-                "lambda unit:  Fix32(unit.ability_source.api_get_float_attr('attack_phy'))", 
-                [
-                    [
-                        "ability_source", 
-                        "ATTR_RESULT", 
-                        "attack_phy"
-                    ]
-                ], 
-                "lambda unit:  Fix32(unit.ability_source.api_get_float_attr('attack_phy'))", 
-                {
-                    "unit.ability_source.ATTR_RESULT.attack_phy": {
-                        "is_cm": false
-                    }
-                }, 
-                [
-                    [
-                        "unit", 
-                        "ability_source", 
-                        "ATTR_RESULT", 
-                        "attack_phy"
-                    ]
-                ]
+                "lambda unit: Fix32(5)", 
+                [], 
+                "lambda unit: Fix32(5)", 
+                {}, 
+                []
             ]
         }, 
         "damage_type": 0, 
@@ -290,10 +277,10 @@
         "__tuple__": true, 
         "items": []
     }, 
-    "type": 1, 
-    "uid": "134278521", 
+    "type": 4, 
+    "uid": "134252005", 
     "use_base_tint_color": false, 
-    "use_fresnel": 0, 
+    "use_fresnel": false, 
     "use_simple_mini_map_icon": false, 
     "vampire_mag": 0.0, 
     "vampire_mag_grow": 0.0, 
