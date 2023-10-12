@@ -1,0 +1,26 @@
+{
+    "group": [], 
+    "key": -1, 
+    "key_order": {
+        "-7tr3mZvEe67PTDQQunfyS": 0, 
+        "0LtYgGfjEe6WCDDQQunfyc": 13, 
+        "Ao5agGf7Ee6cdDDQQunfyZ": 17, 
+        "BnoH7mccEe6SyjDQQundLj": 9, 
+        "C12oIWZ4Ee6K9DDQQunfyS": 7, 
+        "IYLZgGZ+Ee6P8TDQQunfyf": 8, 
+        "JClkAGckEe6f8zDQQunfyT": 10, 
+        "LPjuwGZcEe6VlTDQQunfyT": 3, 
+        "Mmo-AGZzEe60UDDQQunfyZ": 4, 
+        "TQjYoWZ7Ee6LVzDQQunfyT": 6, 
+        "UQNJYWfcEe64JTDQQunfyZ": 16, 
+        "d0P6nmdcEe6jbjDQQuhSCJ": 11, 
+        "eSbxsGZ7Ee65JDDQQunfyQ": 14, 
+        "n6cZQGc1Ee6SlTDQQunfyf": 12, 
+        "nL+yz2ZbEe6HgjDQQunfyU": 2, 
+        "q5c1HmdCEe6ZFjDQQunfyW": 5, 
+        "s8CiYWZaEe6NDjDQQunfyf": 1, 
+        "wOcPwGc1Ee6uUDDQQunfyT": 15
+    }, 
+    "name": "trigger", 
+    "sub_trigger": {}
+}

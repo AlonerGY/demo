@@ -1,0 +1,52 @@
+{
+ "f": [
+  {
+   "__tuple__": true, 
+   "items": [
+    "", 
+    0, 
+    2147483647, 
+    "code_explorer_custom_root_folder_name"
+   ]
+  }, 
+  {
+   "__tuple__": true, 
+   "items": [
+    "/2147483647", 
+    0, 
+    "hK7fT2gcEe62pzDQQunfyU", 
+    "\u7ecf\u9a8c\u5b9d\u77f3"
+   ]
+  }
+ ], 
+ "d": {
+  "134260285": {
+   "__tuple__": true, 
+   "items": [
+    "hK7fT2gcEe62pzDQQunfyU", 
+    0
+   ]
+  }, 
+  "134272898": {
+   "__tuple__": true, 
+   "items": [
+    "hK7fT2gcEe62pzDQQunfyU", 
+    1
+   ]
+  }, 
+  "134243321": {
+   "__tuple__": true, 
+   "items": [
+    "hK7fT2gcEe62pzDQQunfyU", 
+    2
+   ]
+  }, 
+  "134278521": {
+   "__tuple__": true, 
+   "items": [
+    2147483647, 
+    1
+   ]
+  }
+ }
+}

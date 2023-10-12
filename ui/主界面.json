@@ -1,0 +1,81 @@
+{
+    "adapt_mode": 2, 
+    "children": [
+        {
+            "children": [], 
+            "event_list": [], 
+            "image": 903515, 
+            "name": "\u80cc\u666f", 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    960.0, 
+                    540.0
+                ]
+            }, 
+            "size": {
+                "__tuple__": true, 
+                "items": [
+                    1920.0, 
+                    1080.0
+                ]
+            }, 
+            "type": 4, 
+            "uid": "896607c7-d0c2-491e-bc07-073b89553c37"
+        }, 
+        {
+            "children": [], 
+            "event_list": [
+                {
+                    "action_list": [
+                        {
+                            "anim_duration": 1.0, 
+                            "anim_id": null, 
+                            "anim_type": 0, 
+                            "comp": "0c2f15f7-d228-404f-bb58-a333c8af71fe", 
+                            "ease_type": 0, 
+                            "name": "Hide_3", 
+                            "open_timeline": true, 
+                            "type": 3
+                        }
+                    ], 
+                    "enabled": true, 
+                    "name": "\u8fdb\u5165\u5173\u5361", 
+                    "sound_id": null, 
+                    "type": 2
+                }
+            ], 
+            "name": "button_1", 
+            "normal_text": {
+                "__tuple__": true, 
+                "items": [
+                    "\u8fdb\u5165\u5173\u5361", 
+                    false
+                ]
+            }, 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    960.0, 
+                    500.7047119140625
+                ]
+            }, 
+            "pos_percent": {
+                "__tuple__": true, 
+                "items": [
+                    50.0, 
+                    46.36154739945023
+                ]
+            }, 
+            "type": 1, 
+            "uid": "995c3863-cb54-4171-bbac-81cf622531ea"
+        }
+    ], 
+    "name": "\u4e3b\u754c\u9762", 
+    "opacity": 1.0, 
+    "type": 2, 
+    "ui_anims": [], 
+    "uid": "0c2f15f7-d228-404f-bb58-a333c8af71fe", 
+    "visible": true, 
+    "zorder": 400
+}
