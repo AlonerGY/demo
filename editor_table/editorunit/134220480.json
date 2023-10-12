@@ -187,7 +187,7 @@
         "__tuple__": true, 
         "items": []
     }, 
-    "preview_billboard_health_value": 1000.0, 
+    "preview_billboard_health_value": 15.0, 
     "refresh_interval": 1.0, 
     "research_techs": {
         "__tuple__": true, 

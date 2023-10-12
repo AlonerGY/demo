@@ -554,13 +554,44 @@
                                                                         {
                                                                             "arg_type": 100002, 
                                                                             "args_list": [
-                                                                                4
+                                                                                3
                                                                             ], 
                                                                             "sub_type": 1
                                                                         }
                                                                     ], 
                                                                     "condition_type": "FLOAT_COMPARE", 
                                                                     "element_id": 293638265001352, 
+                                                                    "enable": true
+                                                                }, 
+                                                                {
+                                                                    "args_list": [
+                                                                        {
+                                                                            "arg_type": 100002, 
+                                                                            "args_list": [
+                                                                                [
+                                                                                    "INTEGER", 
+                                                                                    "\u9ec4\u5dfe\u4e4b\u4e71\u5173\u5361\u65f6\u95f4\u5e8f\u5217"
+                                                                                ]
+                                                                            ], 
+                                                                            "sub_type": 6
+                                                                        }, 
+                                                                        {
+                                                                            "arg_type": 100015, 
+                                                                            "args_list": [
+                                                                                "=="
+                                                                            ], 
+                                                                            "sub_type": 1
+                                                                        }, 
+                                                                        {
+                                                                            "arg_type": 100002, 
+                                                                            "args_list": [
+                                                                                5
+                                                                            ], 
+                                                                            "sub_type": 1
+                                                                        }
+                                                                    ], 
+                                                                    "condition_type": "FLOAT_COMPARE", 
+                                                                    "element_id": 293638265935331, 
                                                                     "enable": true
                                                                 }, 
                                                                 {
