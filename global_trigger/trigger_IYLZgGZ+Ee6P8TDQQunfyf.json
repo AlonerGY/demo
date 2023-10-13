@@ -1,55 +1,5 @@
 {
     "trigger_dict": {
-        "300564546": {
-            "action": [
-                {
-                    "action_type": "STORAGE_BOX", 
-                    "args_list": [
-                        {
-                            "arg_type": 100021, 
-                            "args_list": [], 
-                            "sub_type": 1
-                        }, 
-                        {
-                            "arg_type": 100022, 
-                            "args_list": [], 
-                            "sub_type": 1
-                        }, 
-                        {
-                            "arg_type": 100022, 
-                            "args_list": [], 
-                            "sub_type": 1
-                        }, 
-                        {
-                            "arg_type": 100003, 
-                            "args_list": [
-                                "\u7ed1\u5b9a\u6b66\u5c06\u5c5e\u6027\u5230\u7ecf\u9a8c\u6761UI"
-                            ], 
-                            "sub_type": 1
-                        }
-                    ], 
-                    "bp": false, 
-                    "element_id": 300564546000002, 
-                    "enable": true
-                }
-            ], 
-            "call_enabled": true, 
-            "condition": [], 
-            "enabled": true, 
-            "event": [
-                [
-                    2093732719, 
-                    "\u6b66\u5c06\u51fa\u751f", 
-                    300564546, 
-                    "event_type"
-                ]
-            ], 
-            "group_id": "IYLZgGZ+Ee6P8TDQQunfyf", 
-            "p_trigger_id": null, 
-            "trigger_id": 300564546, 
-            "trigger_name": "\u7ecf\u9a8c\u6761", 
-            "valid": true
-        }, 
         "1320153156": {
             "action": [], 
             "call_enabled": true, 
@@ -73,18 +23,66 @@
             "trigger_id": 1644924995, 
             "trigger_name": "\u6b66\u5c06", 
             "valid": true
+        }, 
+        "2100498512": {
+            "action": [
+                {
+                    "action_type": "SET_UI_COMP_VISIBLE", 
+                    "args_list": [
+                        {
+                            "arg_type": 100025, 
+                            "args_list": [], 
+                            "sub_type": "GET_CLIENT_ROLE"
+                        }, 
+                        {
+                            "arg_type": 100001, 
+                            "args_list": [
+                                false
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100070, 
+                            "args_list": [
+                                "e51cf2ab-2437-4d7e-9963-10ec90fccfa5"
+                            ], 
+                            "sub_type": 1
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 2100498512000005, 
+                    "enable": true
+                }
+            ], 
+            "call_enabled": true, 
+            "condition": [], 
+            "enabled": true, 
+            "event": [
+                {
+                    "args_list": [
+                        {
+                            "arg_type": 100067, 
+                            "args_list": [
+                                "\u9009\u62e9\u6b66\u5c06/\u88c5\u5907"
+                            ], 
+                            "sub_type": 1
+                        }
+                    ], 
+                    "element_id": 2100498512000002, 
+                    "enable": true, 
+                    "event_type": "TRIGGER_COMPONENT_EVENT"
+                }
+            ], 
+            "group_id": "IYLZgGZ+Ee6P8TDQQunfyf", 
+            "p_trigger_id": null, 
+            "trigger_id": 2100498512, 
+            "trigger_name": "\u9009\u62e9\u6b66\u5c06/\u88c5\u5907", 
+            "valid": true
         }
     }, 
     "trigger_group_info": {
         "_trigger_group_": true, 
         "group": [
-            {
-                "__tuple__": true, 
-                "items": [
-                    300564546, 
-                    "\u7ecf\u9a8c\u6761"
-                ]
-            }, 
             {
                 "__tuple__": true, 
                 "items": [
@@ -97,6 +95,13 @@
                 "items": [
                     1320153156, 
                     "\u88c5\u5907"
+                ]
+            }, 
+            {
+                "__tuple__": true, 
+                "items": [
+                    2100498512, 
+                    "\u9009\u62e9\u6b66\u5c06/\u88c5\u5907"
                 ]
             }
         ], 

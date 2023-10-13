@@ -8184,7 +8184,15 @@
                             "uid": "2b5b31d1-28e4-4553-8291-afa6509cf2d6"
                         }
                     ], 
-                    "event_list": [], 
+                    "event_list": [
+                        {
+                            "action_list": [], 
+                            "enabled": true, 
+                            "name": "\u9009\u62e9\u6b66\u5c06/\u88c5\u5907", 
+                            "sound_id": null, 
+                            "type": 2
+                        }
+                    ], 
                     "name": "\u5956\u52b1\u4f4d_1", 
                     "normal_picture": 108422, 
                     "pos_percent": {
@@ -8461,7 +8469,15 @@
                             "uid": "ed3b524d-451e-48d7-a78e-d4c1af6c7ac2"
                         }
                     ], 
-                    "event_list": [], 
+                    "event_list": [
+                        {
+                            "action_list": [], 
+                            "enabled": true, 
+                            "name": "\u9009\u62e9\u6b66\u5c06/\u88c5\u5907", 
+                            "sound_id": null, 
+                            "type": 2
+                        }
+                    ], 
                     "name": "\u5956\u52b1\u4f4d_2", 
                     "normal_picture": 108422, 
                     "pos": {
@@ -8736,7 +8752,15 @@
                             "uid": "8256c3a9-d538-4f9d-9ffd-da4bbce2fdf4"
                         }
                     ], 
-                    "event_list": [], 
+                    "event_list": [
+                        {
+                            "action_list": [], 
+                            "enabled": true, 
+                            "name": "\u9009\u62e9\u6b66\u5c06/\u88c5\u5907", 
+                            "sound_id": null, 
+                            "type": 2
+                        }
+                    ], 
                     "name": "\u5956\u52b1\u4f4d_3", 
                     "normal_picture": 108422, 
                     "pos": {
@@ -9011,7 +9035,15 @@
                             "uid": "15bcbf7d-bde4-4714-b31d-7a62e45d48f2"
                         }
                     ], 
-                    "event_list": [], 
+                    "event_list": [
+                        {
+                            "action_list": [], 
+                            "enabled": true, 
+                            "name": "\u9009\u62e9\u6b66\u5c06/\u88c5\u5907", 
+                            "sound_id": null, 
+                            "type": 2
+                        }
+                    ], 
                     "name": "\u5956\u52b1\u4f4d_4", 
                     "normal_picture": 108422, 
                     "pos": {
@@ -10620,6 +10652,6 @@
     "type": 2, 
     "ui_anims": [], 
     "uid": "e51cf2ab-2437-4d7e-9963-10ec90fccfa5", 
-    "visible": true, 
+    "visible": false, 
     "zorder": 400
 }
