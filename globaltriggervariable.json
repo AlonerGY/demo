@@ -165,6 +165,46 @@
                 "\u91ca\u653e\u6280\u80fd\u7684\u5355\u4f4d": 0
             }
         }, 
+        "479289466": {
+            "variable_dict": {
+                "FLOAT": {
+                    "\u5b9d\u7bb1\u5956\u52b1\u6ed1\u52a8\u95f4\u9694": 0.1, 
+                    "\u5b9d\u7bb1\u7bad\u5934\u95ea\u70c1\u95f4\u9694\u65f6\u95f4": 0.05, 
+                    "\u6ed1\u52a8\u65f6\u95f4": 0.3
+                }, 
+                "INTEGER": {
+                    "\u5b9d\u7bb1\u54c1\u9636": 0, 
+                    "\u5b9d\u7bb1\u7bad\u5934\u95ea\u70c1\u6b21\u6570": 90, 
+                    "\u5f53\u524d\u6b21\u6570": 0, 
+                    "\u6700\u7ec85\u5b9d\u7bb1\u5e8f\u5217": 0, 
+                    "\u6ed1\u52a8\u6b21\u6570": 40, 
+                    "\u7bad\u5934\u95ea\u70c1\u5e8f\u5217": 0
+                }, 
+                "NEW_TIMER": {}, 
+                "UI_COMP": {
+                    "\u5b9d\u7bb1\u7bad\u5934\u63a7\u4ef6": ""
+                }, 
+                "UI_COMP_TYPE": {}, 
+                "UI_PREFAB_INSTANCE": {
+                    "\u62bd\u5956\u754c\u9762\u7ec4\u4ef6": "", 
+                    "\u6700\u7ec85\u5b9d\u7bb1": ""
+                }
+            }, 
+            "variable_length_dict": {
+                "\u5b9d\u7bb1\u54c1\u9636": 0, 
+                "\u5b9d\u7bb1\u5956\u52b1\u6ed1\u52a8\u95f4\u9694": 0, 
+                "\u5b9d\u7bb1\u7bad\u5934\u63a7\u4ef6": 10, 
+                "\u5b9d\u7bb1\u7bad\u5934\u95ea\u70c1\u6b21\u6570": 0, 
+                "\u5b9d\u7bb1\u7bad\u5934\u95ea\u70c1\u95f4\u9694\u65f6\u95f4": 0, 
+                "\u5f53\u524d\u6b21\u6570": 0, 
+                "\u62bd\u5956\u754c\u9762\u7ec4\u4ef6": 0, 
+                "\u6700\u7ec85\u5b9d\u7bb1": 10, 
+                "\u6700\u7ec85\u5b9d\u7bb1\u5e8f\u5217": 0, 
+                "\u6ed1\u52a8\u65f6\u95f4": 0, 
+                "\u6ed1\u52a8\u6b21\u6570": 0, 
+                "\u7bad\u5934\u95ea\u70c1\u5e8f\u5217": 0
+            }
+        }, 
         "503767069": {
             "variable_dict": {
                 "ITEM_ENTITY": {
@@ -797,6 +837,7 @@
             "UI_Manager": null, 
             "\u5173\u5361\u8868": null
         }, 
+        "UI_PREFAB_INSTANCE": {}, 
         "UNIT_ENTITY": {
             "\u4e3b\u5c06\u5355\u4f4d": 0
         }, 

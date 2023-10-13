@@ -1,14 +1,7 @@
 {
     "local_variable": {}, 
     "trigger_dict": {}, 
-    "trigger_group_info": [
-        {
-            "_trigger_group_": true, 
-            "group": [], 
-            "key": 134256423, 
-            "name": "134256423"
-        }
-    ], 
+    "trigger_group_info": [], 
     "trigger_version": "1.2", 
     "variable_dict": {}, 
     "variable_group_info": [], 
