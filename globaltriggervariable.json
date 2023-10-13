@@ -86,16 +86,16 @@
         "369934410": {
             "variable_dict": {
                 "INTEGER": {
-                    "\u6280\u80fdid": 0, 
-                    "\u6280\u80fd\u5e8f\u53f7": 0
+                    "\u6280\u80fd\u5e8f\u53f7": 0, 
+                    "\u6b66\u5c06id": 0
                 }, 
                 "UNIT_ENTITY": {
                     "\u91ca\u653e\u6280\u80fd\u7684\u5355\u4f4d": 0
                 }
             }, 
             "variable_length_dict": {
-                "\u6280\u80fdid": 0, 
                 "\u6280\u80fd\u5e8f\u53f7": 0, 
+                "\u6b66\u5c06id": 0, 
                 "\u91ca\u653e\u6280\u80fd\u7684\u5355\u4f4d": 0
             }
         }, 
@@ -604,7 +604,6 @@
             "\u653b\u51fb\u901f\u5ea6": 1.0, 
             "\u6700\u7ec8\u589e\u4f24": 0.0, 
             "\u6b66\u5c06\u4f24\u5bb3\u7edf\u8ba1\u6570\u7ec4": 0.0, 
-            "\u6b66\u5c06\u51b7\u5374\u6570\u7ec4": 0.0, 
             "\u6cd5\u672f\u4f24\u5bb3\u52a0\u6210": 0.0, 
             "\u6cd5\u672f\u51fb\u9000": 0.0, 
             "\u6cd5\u672f\u53cd\u4f24": 0.0, 
@@ -940,13 +939,6 @@
                 {
                     "__tuple__": true, 
                     "items": [
-                        "\u6b66\u5c06\u51b7\u5374\u6570\u7ec4", 
-                        "\u6b66\u5c06\u51b7\u5374\u6570\u7ec4"
-                    ]
-                }, 
-                {
-                    "__tuple__": true, 
-                    "items": [
                         "\u653b\u51fb\u5408\u6cd5", 
                         "\u653b\u51fb\u5408\u6cd5"
                     ]
@@ -1142,7 +1134,6 @@
         "\u653b\u51fb\u901f\u5ea6": 0, 
         "\u6700\u7ec8\u589e\u4f24": 0, 
         "\u6b66\u5c06\u4f24\u5bb3\u7edf\u8ba1\u6570\u7ec4": 10, 
-        "\u6b66\u5c06\u51b7\u5374\u6570\u7ec4": 10, 
         "\u6cd5\u672f\u4f24\u5bb3\u52a0\u6210": 0, 
         "\u6cd5\u672f\u51fb\u9000": 0, 
         "\u6cd5\u672f\u53cd\u4f24": 0, 
