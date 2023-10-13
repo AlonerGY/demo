@@ -1,15 +1,13 @@
 {
-    "column_width": {
-        "3": 171
-    }, 
+    "column_width": {}, 
     "table_data": {
         "data": [
             [
                 "key", 
-                "\u6280\u80fdid", 
-                "\u6280\u80fd\u51b7\u5374", 
-                "\u661f\u7ea7", 
-                "", 
+                "\u5347\u7ea7\u6b66\u5c06", 
+                "\u5347\u7ea7\u88c5\u5907", 
+                "\u65b0\u6b66\u5c06", 
+                "\u65b0\u88c5\u5907", 
                 null, 
                 null, 
                 null, 
@@ -29,9 +27,9 @@
             [
                 "int", 
                 "int", 
-                "float", 
                 "int", 
-                null, 
+                "int", 
+                "int", 
                 null, 
                 null, 
                 null, 
@@ -50,10 +48,10 @@
             ], 
             [
                 "1", 
-                null, 
-                null, 
-                "", 
-                null, 
+                "27", 
+                "18", 
+                "3", 
+                "2", 
                 null, 
                 null, 
                 null, 
@@ -72,10 +70,10 @@
             ], 
             [
                 "2", 
-                null, 
-                null, 
-                null, 
-                null, 
+                "3", 
+                "2", 
+                "3", 
+                "2", 
                 null, 
                 null, 
                 null, 
@@ -94,27 +92,9 @@
             ], 
             [
                 "3", 
-                null, 
-                null, 
-                null, 
-                null, 
-                null, 
-                null, 
-                null, 
-                null, 
-                null, 
-                null, 
-                null, 
-                null, 
-                null, 
-                null, 
-                null, 
-                null, 
-                null, 
-                null, 
-                null
-            ], 
-            [
+                "3", 
+                "2", 
+                "6", 
                 "4", 
                 null, 
                 null, 
@@ -130,14 +110,10 @@
                 null, 
                 null, 
                 null, 
-                null, 
-                null, 
-                null, 
-                null, 
                 null
             ], 
             [
-                "5", 
+                "", 
                 null, 
                 null, 
                 null, 
@@ -159,7 +135,29 @@
                 null
             ], 
             [
-                "6", 
+                null, 
+                null, 
+                null, 
+                null, 
+                null, 
+                null, 
+                null, 
+                null, 
+                null, 
+                null, 
+                null, 
+                null, 
+                null, 
+                null, 
+                null, 
+                null, 
+                null, 
+                null, 
+                null, 
+                null
+            ], 
+            [
+                null, 
                 null, 
                 null, 
                 null, 
@@ -1110,5 +1108,5 @@
         ]
     }, 
     "table_type": 0, 
-    "tid": "8599df08-3a6f-4461-902c-74ca81a4bc2f"
+    "tid": "3f13fb4f-cd77-4d8e-9e2b-068e3e8ce064"
 }
